@@ -7,6 +7,10 @@ body {
   font-family: "segoe ui";
 }
 
+a {
+  text-decoration: none;
+}
+
 .nav {
   height: 50px;
   width: 100%;
@@ -77,6 +81,35 @@ body {
 
 #fa_github {
   margin-right: 30px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 800;
+}
+
+section {
+  padding: top 170px;
+  padding: 170px;
+}
+
+/*hero*/
+
+#hero {
+  background: url(../IMAGES/IMG_6062.jpg);
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.btn {
+  padding: 24px 54px;
+  border-width: 2px;
+  border-radius: 100px;
 }
 
 /*home*/
