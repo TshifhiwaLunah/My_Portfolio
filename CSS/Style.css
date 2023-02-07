@@ -75,6 +75,10 @@ body {
   margin-left: 5px;
 }
 
+#fa_github {
+  margin-right: 30px;
+}
+
 /*home*/
 
 @media (max-width: 750px) {
